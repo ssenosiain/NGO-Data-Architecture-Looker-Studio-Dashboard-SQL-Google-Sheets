@@ -4,6 +4,7 @@ End-to-end data solution for an NGO: SQL database design, ETL from Google Sheets
 🕊️ Potenciar Solidario: NGO Data Architecture & Analytics
 
 Project Overview
+![Dashboard Preview](preview.png)
 This project involved designing and implementing a professional data infrastructure for Potenciar Solidario, a Non-Profit Organization. The goal was to transition from fragmented spreadsheets to a centralized relational database system, enabling real-time tracking of donations, expenses, and social impact from 2018 to 2024.
 
 🚀 Tech Stack
